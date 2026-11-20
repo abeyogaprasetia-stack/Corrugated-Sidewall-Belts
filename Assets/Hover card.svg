@@ -1,0 +1,15 @@
+<svg width="428" height="80" viewBox="0 0 428 80" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.2">
+<use xlink:href="#stroke0_76_1525" fill="#0E38EC"/>
+<use xlink:href="#stroke0_76_1525" fill="url(#paint0_radial_76_1525)"/>
+</g>
+<rect y="76" width="54" height="4" fill="#393939"/>
+<defs>
+<radialGradient id="paint0_radial_76_1525" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(18 56) rotate(-52.1359) scale(230.535 170.474)">
+<stop stop-color="#0E38EC"/>
+<stop offset="0.5"/>
+<stop offset="1" stop-color="#082086"/>
+</radialGradient>
+<path id="stroke0_76_1525" d="M427.871 49.1543L409.025 68H0.128906V0H427.871V49.1543Z"/>
+</defs>
+</svg>
